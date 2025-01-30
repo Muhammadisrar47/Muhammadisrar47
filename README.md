@@ -9,10 +9,12 @@ I’m a passionate Artificial Intelligence student specializing in Machine Learn
 🎨 Graphic Design – Album covers, banners, flyers, and more (Fiverr Pro!)
 💡 Creative Problem-Solving – Always up for challenges and learning new skills
 🛠️ Tech Stack
+
 Languages: Python, SQL, C++
 AI/ML Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn
 Tools: OpenCV, Pandas, NumPy, Matplotlib, Seaborn
 Design Tools: Photoshop, Illustrator, Canva
+
 🌍 Let's Connect
 💼 Fiverr
 🔗 LinkedIn
