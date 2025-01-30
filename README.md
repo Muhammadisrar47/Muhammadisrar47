@@ -26,11 +26,11 @@ Design Tools: Photoshop, Illustrator, Canva
 
 🌍 Let's Connect
 
-💼 Fiverr
+💼 Fiverr : 
 
-🔗 LinkedIn
+🔗 LinkedIn : https://www.linkedin.com/in/muhammad-israr-5a5a7a292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsUu9xHXyT5i70ZTt2yyy1g%3D%3D
 
-📷 Instagram
+📷 Instagram : https://www.instagram.com/m_israr_swati?igsh=MW9tam0xcjBpMTlkMQ%3D%3D&utm_source=qr
 
 📫 Email: muhammad.israr.huic@gmail.com
 
