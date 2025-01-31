@@ -26,11 +26,13 @@ I actively contribute to **open-source projects** and believe in sharing knowled
 
 ### 🌍 Connect with me  
 
-[![Fiverr](https://upload.wikimedia.org/wikipedia/commons/3/37/Fiverr_Logo_3D.png)](https://www.fiverr.com/)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/) 
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_Logo_3D.png)](https://www.linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_Logo_3D.png)](https://www.instagram.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/) 
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ### 🛠️ Languages and Tools  
 **Programming & Frameworks:**  
@@ -49,15 +51,11 @@ I actively contribute to **open-source projects** and believe in sharing knowled
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 📌 **Always open to new opportunities, collaborations, and learning experiences!** 🚀  
 
