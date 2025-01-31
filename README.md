@@ -1,4 +1,3 @@
-Here's your **GitHub Profile README** in the same style:  
 
 ---
 
@@ -19,10 +18,10 @@ I am an **Artificial Intelligence student** passionate about **Machine Learning,
 I actively contribute to **open-source projects** and believe in sharing knowledge with the community.  
 
 ### 💬 Ask me about  
-**Python, Data Science, Machine Learning, Deep Learning, NLP, Computer Vision, Data Analytics, and AI-driven applications.**  
+**Python, Data Science, Machine Learning, Deep Learning, NLP, Computer Vision and graphic designer.**  
 
 ### 📫 How to reach me  
-📧 Email: **your-email@example.com**  
+📧 Email: **muhammad.israr.huic@gmail.com**/**muhammadisrar7571@gmail.com**
 
 ### 🌍 Connect with me  
 
@@ -57,8 +56,10 @@ I actively contribute to **open-source projects** and believe in sharing knowled
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-📌 **Always open to new opportunities, collaborations, and learning experiences!** 🚀  
+📌 **Always open to new opportunities, collaborations, and learning experiences!** 🚀 
+
+**Thanks for visiting my profile 😊**
 
 ---
 
-Would you like to add more personalization, such as specific project links or achievements? 😊
+
