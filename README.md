@@ -5,10 +5,10 @@
 
 🚀 **AI & Machine Learning Enthusiast | Data Scientist | Freelance Graphic Designer**  
 
-I am an **Artificial Intelligence student** passionate about **Machine Learning, Data Science, and Computer Vision**. I love solving real-world problems using creative coding and developing AI-driven solutions. Additionally, as a **freelance graphic designer on Fiverr**, I merge creativity with technology to deliver impactful designs.  
+I am an **Computer science  student** passionate about **Machine Learning, Data Science, and Computer Vision**. I love solving real-world problems using creative coding and developing AI-driven solutions. Additionally, as a **freelance graphic designer on Fiverr**, I merge creativity with technology to deliver impactful designs.  
 
 ### 👨‍🎓 Education  
-🎓 I'm currently pursuing **Artificial Intelligence** with a focus on **Machine Learning & Data Science**.  
+🎓 I'm currently pursuing **Computer science ** with a focus on **Machine Learning & Data Science**.  
 
 ### 👨‍💻 Professional Interests  
 💡 I specialize in **Machine Learning, Deep Learning, NLP, and Computer Vision**.  
